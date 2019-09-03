@@ -74,7 +74,7 @@ class CitiesContainer extends Component {
         axios.get(`${API_URL}/cities`)
             .then(response => {
                 this.setState({ cities: response.data })
-                this.setState({ posts: this.state.cityAsProp.posts})
+                this.setState({ posts: this.state.cityAsProp.posts })
             })
             .catch(error => console.log(error));
     }
@@ -104,9 +104,10 @@ class CitiesContainer extends Component {
         axios.delete(`${API_URL}/posts/${id}`)
             .then(response => {
                 let updatedPosts = this.state.cityAsProp.posts.filter(post => post._id !== id);
-                this.setState({ posts: updatedPosts})
+                this.setState({ posts: updatedPosts })
                 this.getCities();
                 this.props.goBack();
+                this.props.goForward();
             })
             .catch(error => console.log(error.response));
 
