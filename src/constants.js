@@ -1,1 +1,1 @@
-export const API_URL = 'https://projectwayfr-server.herokuapp.com/api/v1';
+export const API_URL = 'https://wayfarer-backend-megancummings.herokuapp.com/api/v1';
