@@ -1,5 +1,5 @@
 {
-    "name": "front-end",
+    "name": "wayfarer",
     "version": "0.1.0",
     "private": true,
     "homepage": "https://meganecummings.github.io/wayfarer/",
@@ -32,6 +32,9 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^2.1.1"
     },
     "proxy": "http://localhost:3001"
 }
