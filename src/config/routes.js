@@ -21,6 +21,7 @@ const Routes = ({ setCurrentUser, history, currentUser }) => {
     return (
         <Switch>
             <Route exact path="/" component={Home} />
+            <Route exact path="/home" component={Home} />
             <Route path='/login' render={(props) => <Home {...props} login={props.match.path} setCurrentUser={setCurrentUser} {...history} />} />
             <Route path='/register' render={(props) => <Home {...props} register={props.match.path} />} />
             <Route path="/post/:id" render={(props) => <PostContainer {...props} currentUser={currentUser} id={props.match.params.id} />} />
