@@ -2,11 +2,16 @@ nav {
     background-color: black;
     display: flex;
     justify-content: space-between;
-    height:9vh;
+    height: 9vh;
+}
+
+.logo {
+    z-index: 10;
 }
 
 nav h1 {
     padding: .5em;
+    z-index: 10;
 }
 
 .nav-li {
