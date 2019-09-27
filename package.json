@@ -36,5 +36,5 @@
     "devDependencies": {
         "gh-pages": "^2.1.1"
     },
-    "proxy": "https://wayfarer-backend-megancummings.herokuapp.com/"
+    "proxy": "http://localhost:3001"
 }
