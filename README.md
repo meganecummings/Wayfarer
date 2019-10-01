@@ -7,17 +7,32 @@ Wayfarer is a social travel App for adventurous users looking to connect about c
 
 ### Why wayfarer?
 
-Wayfarer was built off the simple wireframes below as part of a group project to bring the wireframes to life.
+Wayfarer was built off the below client wireframes, as a group technical concept project. 
+
+The goal for the project was to work together to bring the wireframes to life as a team and bring the vision for Wayfarer to life.
 
 
-### Who is team wayfarer?
+* ![Wireframes](https://raw.git.generalassemb.ly/sf-sei-3/project-02/master/wireframes.png)
 
-Name | GitHub Link 
+
+### Technologies Used
+
+* Mongoose / MongoDB
+* Express
+* React
+* Node.js
+* GH-Pages (Frontend Deployment)
+* Heroku (Backend Deployment)
+* Trello ([Here](https://trello.com/b/mFlyyjpM/project-wayfarer))
+
+### Team Wayfarer
+
+Name | GitHub 
 ------------ | -------------
-Megan Cummings | https://github.com/meganecummings
-Eduardo Franco | https://github.com/edfranco
-Pouya Rezvani | https://github.com/pouyarezvani
-Joseph Lister | https://github.com/jsph01
+Megan Cummings | [@meganecummings](https://github.com/meganecummings)
+Eduardo Franco | [@edfranco](https://github.com/edfranco)
+Pouya Rezvani | [@pouyarezvani](https://github.com/pouyarezvani)
+Joseph Lister | [@jsph01](https://github.com/jsph01)
 
 
 #### Steps to Get Wayfarer working
