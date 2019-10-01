@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wayfarer/static/css/main.4cfca004.chunk.css",
+    "main.js": "/wayfarer/static/js/main.198d6e09.chunk.js",
+    "main.js.map": "/wayfarer/static/js/main.198d6e09.chunk.js.map",
+    "runtime~main.js": "/wayfarer/static/js/runtime~main.33cbf5ef.js",
+    "runtime~main.js.map": "/wayfarer/static/js/runtime~main.33cbf5ef.js.map",
+    "static/js/2.f4bf64c5.chunk.js": "/wayfarer/static/js/2.f4bf64c5.chunk.js",
+    "static/js/2.f4bf64c5.chunk.js.map": "/wayfarer/static/js/2.f4bf64c5.chunk.js.map",
+    "index.html": "/wayfarer/index.html",
+    "precache-manifest.fe1eb73a0d596f94c9a1e10bb710fd91.js": "/wayfarer/precache-manifest.fe1eb73a0d596f94c9a1e10bb710fd91.js",
+    "service-worker.js": "/wayfarer/service-worker.js",
+    "static/css/main.4cfca004.chunk.css.map": "/wayfarer/static/css/main.4cfca004.chunk.css.map"
+  }
+}
