@@ -9,7 +9,7 @@ Wayfarer is a social travel App for adventurous users looking to connect about c
 
 Wayfarer was built off the below client wireframes, as a group technical concept project. 
 
-The goal for the project was to work together to bring the wireframes to life as a team and bring the vision for Wayfarer to life.
+The goal for the project was to work together as a team to bring the wireframes to life and bring the vision for Wayfarer to  users.
 
 
 * ![Wireframes](https://raw.git.generalassemb.ly/sf-sei-3/project-02/master/wireframes.png)
