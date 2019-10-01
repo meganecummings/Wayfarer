@@ -12,7 +12,7 @@ Wayfarer was built off the below client wireframes, as a group technical concept
 The goal for the project was to work together as a team to bring the wireframes to life and bring the vision for Wayfarer to  users.
 
 
-* ![Wireframes](https://raw.git.generalassemb.ly/sf-sei-3/project-02/master/wireframes.png)
+![Wireframes](https://raw.git.generalassemb.ly/sf-sei-3/project-02/master/wireframes.png)
 
 
 ### Technologies Used
